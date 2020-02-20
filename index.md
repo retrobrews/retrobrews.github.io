@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/retrobrews/retrobrews.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The aim of this project is to make an auto installer scripts for the free (legal) games, which can run with Retropie on Raspberry Pi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HISTORY
+Firstly I've tried to create a script for fetching and unpacking ROMs one by one from several sources. The ROMs of the games are/were spread around the internet on various sites and in various archives (zip, rar, 7z,..). Some blocked by captcha and some, known by name, had also dead links :(
+It unsuccessfully ended with so many fails and really...really... long (non working) script.
 
-### Markdown
+Then I decided to create this project - a place with all the freeware ROMs, screenshots and details about the games in txt format - all in one - together - in one nice collection - from which the installation will run smoothly and quickly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### ROMS
+All listed games/ROMs should be a non-demo versions of the games, or unfinished games with implemented scoring system/end game function, etc....
 
-# Header 1
-## Header 2
-### Header 3
+Games listed as a part of this project are freeware games, which I found over there...
+If you see any of those games listed here as illegal (should not be the case, but you never know...), please let me know asap! I don't want to be a part of any criminal activity. It's a non profit project to help with installing free games to play!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### LEGAL
+You are allowed to download the ROMs/archives, but you may not be allowed to sell them!!! All the games are the property of it's developers/owners. See attached txt file named equally for details/licence on particular game, or contact the owner directly.
 
-**Bold** and _Italic_ and `Code` text
+_All games listed as a part of this project have been approved by it's owner as allowed to be shared here._
 
-[Link](url) and ![Image](src)
-```
+### TODO
+- add more games
+- add license info
+- create universal (GUI?) shell script
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### CONTRIBUTE
+If you like to contribute to this project and you will find some nice retro game, please let me know on email below...
+You can also help by testing the scripts/games and write a review/rating. Currently all the ratings in gamelists are 0.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/retrobrews/retrobrews.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### CONTACT:
 
-### Support or Contact
+retrobrews {CAT} gmail {DOG} com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks!
