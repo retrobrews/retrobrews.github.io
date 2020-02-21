@@ -17,18 +17,16 @@ If you see any of those games listed here as illegal (should not be the case, bu
 
 **HOMEBREW GAME COLLECTIONS:**
 
-| Games folder      | Details/Readme |
-|:-------------|:------------------|
-| [Atari 2600](https://github.com/retrobrews/atari2600-games)  | [README](https://github.com/retrobrews/atari2600-games/blob/master/README.md) |
-| [Commodore 64/VIC-20/PET](https://github.com/retrobrews/c64-games) | [README](https://github.com/retrobrews/c64-games/blob/master/README.md) |
-| [ColecoVision](https://github.com/retrobrews/colecovision-games)           | [README](https://github.com/retrobrews/colecovision-games/blob/master/README.md) |
-| [Game Boy Advance](https://github.com/retrobrews/gba-games)           | [README](https://github.com/retrobrews/gba-games/blob/master/README.md) |
-| [Game Boy Color](https://github.com/retrobrews/gbc-games) | [README](https://github.com/retrobrews/gbc-games/blob/master/README.md) |
-| [Nintendo Entertainment System](https://github.com/retrobrews/nes-games) | [README](https://github.com/retrobrews/nes-games/blob/master/README.md) |
-| [Sega Master System](https://github.com/retrobrews/sms-games) | [README](https://github.com/retrobrews/sms-games/blob/master/README.md) |
-| [Sega MegaDrive/Genesis](https://github.com/retrobrews/md-games) | [README](https://github.com/retrobrews/md-games/blob/master/README.md) |
-| [Super Nintendo Entertainment System](https://github.com/retrobrews/snes-games) | [README](https://github.com/retrobrews/snes-games/blob/master/README.md) |
-| [ZX Spectrum](https://github.com/retrobrews/zxspectrum-games) | [README](https://github.com/retrobrews/zxspectrum-games/blob/master/README.md) |
+[Atari 2600](https://github.com/retrobrews/atari2600-games)<br />
+[Commodore 64/VIC-20/PET](https://github.com/retrobrews/c64-games)<br />
+[ColecoVision](https://github.com/retrobrews/colecovision-games)<br />
+[Game Boy Advance](https://github.com/retrobrews/gba-games)<br />
+[Game Boy Color](https://github.com/retrobrews/gbc-games)<br />
+[Nintendo Entertainment System](https://github.com/retrobrews/nes-games)<br />
+[Sega Master System](https://github.com/retrobrews/sms-games)<br />
+[Sega MegaDrive/Genesis](https://github.com/retrobrews/md-games)<br />
+[Super Nintendo Entertainment System](https://github.com/retrobrews/snes-games)<br />
+[ZX Spectrum](https://github.com/retrobrews/zxspectrum-games)<br />
 <br />
 
 **HOW TO INSTALL ROMs ?**
