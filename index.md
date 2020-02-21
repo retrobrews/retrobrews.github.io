@@ -1,11 +1,8 @@
 ## Welcome
 
 The aim of this project is to make an auto installer scripts for the free (legal) games, which can run with Retropie on Raspberry Pi.
-
-[What is RetroPie](https://retropie.org.uk/)? 
-
-[What is Raspberrry Pi](https://www.raspberrypi.org/) ?
-
+*   [What is RetroPie](https://retropie.org.uk/)? 
+*   [What is Raspberrry Pi](https://www.raspberrypi.org/) ?
 
 * * *
 
@@ -17,16 +14,16 @@ If you see any of those games listed here as illegal (should not be the case, bu
 
 **HOMEBREW GAME COLLECTIONS:**
 
-[Atari 2600](https://github.com/retrobrews/atari2600-games)<br />
-[Commodore 64/VIC-20/PET](https://github.com/retrobrews/c64-games)<br />
-[ColecoVision](https://github.com/retrobrews/colecovision-games)<br />
-[Game Boy Advance](https://github.com/retrobrews/gba-games)<br />
-[Game Boy Color](https://github.com/retrobrews/gbc-games)<br />
-[Nintendo Entertainment System](https://github.com/retrobrews/nes-games)<br />
-[Sega Master System](https://github.com/retrobrews/sms-games)<br />
-[Sega MegaDrive/Genesis](https://github.com/retrobrews/md-games)<br />
-[Super Nintendo Entertainment System](https://github.com/retrobrews/snes-games)<br />
-[ZX Spectrum](https://github.com/retrobrews/zxspectrum-games)<br />
+*   [Atari 2600](https://github.com/retrobrews/atari2600-games)
+*   [Commodore 64/VIC-20/PET](https://github.com/retrobrews/c64-games)
+*   [ColecoVision](https://github.com/retrobrews/colecovision-games)
+*   [Game Boy Advance](https://github.com/retrobrews/gba-games)
+*   [Game Boy Color](https://github.com/retrobrews/gbc-games)
+*   [Nintendo Entertainment System](https://github.com/retrobrews/nes-games)
+*   [Sega Master System](https://github.com/retrobrews/sms-games)
+*   [Sega MegaDrive/Genesis](https://github.com/retrobrews/md-games)
+*   [Super Nintendo Entertainment System](https://github.com/retrobrews/snes-games)
+*   [ZX Spectrum](https://github.com/retrobrews/zxspectrum-games)
 <br />
 
 **HOW TO INSTALL ROMs ?**
